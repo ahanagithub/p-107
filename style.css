@@ -1,0 +1,40 @@
+body
+{
+    background: linear-gradient(90deg, rgba(255,0,85,1) 0%, rgba(7,212,224,1) 35%, rgba(192,0,255,1) 99%);
+    color: rgb(0, 18, 78);
+    font-family: 'Lobster', cursive;
+}
+
+.header_div
+{
+    background-color: white;
+    color: red;
+}
+
+.header_div p
+{
+  font-family: Arial, Helvetica, sans-serif;  
+  color: black;
+  letter-spacing: 2px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.main_div button
+{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    bottom: 0;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px grey;
+}
